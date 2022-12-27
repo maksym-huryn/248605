@@ -1,4 +1,4 @@
 # 248605
-some text laboratory task
+laboratory task
 some changes
 some changes 2
